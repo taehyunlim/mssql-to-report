@@ -1,0 +1,26 @@
+{
+  "name": "mssql-to-report",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "moment": "^2.21.0",
+    "mssql": "^4.1.0",
+    "tedious": "^2.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taehyunlim/mssql-to-report.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taehyunlim/mssql-to-report/issues"
+  },
+  "homepage": "https://github.com/taehyunlim/mssql-to-report#readme"
+}
